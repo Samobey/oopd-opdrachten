@@ -1,0 +1,18 @@
+
+/*
+a)	Globale variabelen plaatsen.
+b)	Stack frame plaatsen.
+c)	Lokale variabelen plaatsen.
+d)	Lokale variabelen een waarde geven.
+e)	Returnwaarde kopiëren.
+f)	Stack frame verwijderen.
+
+Onderdeel A
+het is een verwijzing van de objecten/VARS.. in (stack) naar de waarden in (heap) 
+
+Onderdeel B
+de pijl begint altijd van de stack aan wijst altijd naar de heap.
+
+// de rest van de voorbereidng heb ik op eeen papier gedaan
+
+*/
